@@ -1,0 +1,49 @@
+form {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 30px;
+  font-family: monospace;
+}
+
+#forecastResults p {
+  font-size: 20px;
+  font-family: monospace;
+}
+#weatherInput {
+  font-size: 20px;
+}
+
+#weatherSubmit {
+  font-size: 80px;
+}
+#weatherResults h1 {
+  font-size: 60px;
+  text-decoration: underline;
+  margin-top: 10px;
+}
+#weatherResults p {
+  font-size: 20px;
+  font-style: italic;
+  margin-top: 0px;
+}
+
+#forecastResults img{
+  min-width: 100px;
+  min-height: 100px;
+}
+#weatherResults img {
+  min-width: 100px;
+  min-height: 100px;
+  margin-bottom: 1px;
+}
+
+html {
+  text-align: center;
+}
+
+footer a {
+  text-decoration: none;
+  margin-bottom: 0;
+}
